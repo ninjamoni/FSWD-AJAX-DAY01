@@ -1,0 +1,5 @@
+var myObj = { "name":"Nicolaus", "age":31, "city":"Vienna" };
+
+document.getElementById("content").innerHTML = myObj.name;
+
+var myObj = JSON.parse(myJSON);

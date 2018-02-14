@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<playlist>
+  <song id="s101">
+     <artist>Aretha Franklin</artist>
+     <title>Spanish Harlem</title>
+     <genre>Soul</genre>
+     <country>USA</country>
+     <year>1972</year>
+  </song>
+  <song id="s102">
+     <artist>Aretha Franklin</artist>
+     <title>Rock Steady</title>
+     <genre>Soul</genre>
+     <country>USA</country>
+     <year>1968</year>
+  </song>
+  <song id="s103">
+     <artist>Aretha Franklin</artist>
+     <title>Son of a Preacher Man</title>
+     <genre>Soul</genre>
+     <country>USA</country>
+     <year>1970</year>
+  </song>
+  <song id="s104">
+     <artist>Ayo</artist>
+     <title>Slow, Slow (Run Run)</title>
+     <genre>Soul/Funk</genre>
+     <country>USA</country>
+     <year>2014</year>
+  </song>
+  <song id="s105">
+     <artist>Bobby McFerrin</artist>
+     <title>Don't Worry, Be Happy</title>
+     <genre>Soul/Funk</genre>
+     <country>USA</country>
+     <year>1977</year>
+  </song>
+  <song id="s106">
+     <artist>Coldplay</artist>
+     <title>What if</title>
+     <genre>Pop</genre>
+     <country>UK</country>
+     <year>2011</year>
+  </song>
+  <song id="s107">
+     <artist>Coldplay</artist>
+     <title>Fix you</title>
+     <genre>Pop</genre>
+     <country>UK</country>
+     <year>2009</year>
+  </song>
+  <song id="s108">
+     <artist>Eric Clapton</artist>
+     <title>Wonderful tonight</title>
+     <genre>Soul</genre>
+     <country>USA</country>
+     <year>1982</year>
+  </song>
+    <song id="s109">
+     <artist>Jason Mraz</artist>
+     <title>I'm Yours</title>
+     <genre>Pop</genre>
+     <country>UK</country>
+     <year>2015</year>
+  </song>
+  <song id="s110">
+     <artist>JAY Z</artist>
+     <title>Empire State of Mind (feat. Alicia Keys)</title>
+     <genre>Hip Hop</genre>
+     <country>USA</country>
+     <year>2009</year>
+  </song>
+  <song id="s111">
+     <artist>Leonard Cohen</artist>
+     <title>Hallelujah</title>
+     <genre>Soul</genre>
+     <country>USA</country>
+     <year>2002</year>
+  </song>
+  <song id="s112">
+     <artist>Marvin Gaye</artist>
+     <title>My Girl</title>
+     <genre>R&B/Soul</genre>
+     <country>USA</country>
+     <year>2006</year>
+  </song>
+  <song id="s113">
+     <artist>Sade</artist>
+     <title>Babyfather</title>
+     <genre>Pop</genre>
+     <country>UK</country>
+     <year>2010</year>
+  </song>
+  <song id="s114">
+     <artist>Sade</artist>
+     <title>Soldier Of Love</title>
+     <genre><Pop/genre>
+     <country>UK</country>
+     <year>2010</year>
+  </song>
+  <song id="s115">
+     <artist>Toots & Maytals</artist>
+     <title>Spiritual Healing</title>
+     <genre>Reggae</genre>
+     <country>Jamaica</country>
+     <year>1997</year>
+  </song>
+  <song id="s116">
+     <artist>Natural Black</artist>
+     <title>Work to Be Done</title>
+     <genre>Reggae</genre>
+     <country>Jamaica</country>
+     <year>2009</year>
+  </song>
+   <song id="s117">
+     <artist></artist>
+     <title></title>
+     <genre></genre>
+     <country></country>
+     <year></year>
+  </song>
+  <song id="s118">
+     <artist></artist>
+     <title></title>
+     <genre></genre>
+     <country></country>
+     <year></year>
+  </song>
+  <song id="s119">
+     <artist></artist>
+     <title></title>
+     <genre></genre>
+     <country></country>
+     <year></year>
+  </song>
+  <song id="s120">
+     <artist></artist>
+     <title></title>
+     <genre></genre>
+     <country></country>
+     <year></year>
+  </song>
+  <song id="s121">
+     <artist></artist>
+     <title></title>
+     <genre></genre>
+     <country></country>
+     <year></year>
+  </song>
+
+</playlist>
